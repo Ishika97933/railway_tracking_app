@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334550068958",
+    "project_id": "railwaytrackingapp",
+    "storage_bucket": "railwaytrackingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334550068958:android:58c6b1f64b4a0d12ab5c4f",
+        "android_client_info": {
+          "package_name": "com.example.railway_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWD3a273ActXMH4gFjQb_LjTnX7eHYy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
